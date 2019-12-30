@@ -1,4 +1,4 @@
-package com.example.twitter.contoller;
+package com.example.twitter.controller;
 
 import com.example.twitter.domain.Role;
 import com.example.twitter.domain.User;
